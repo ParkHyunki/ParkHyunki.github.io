@@ -9,6 +9,8 @@ tags:
   - Markdown
 last_modified_at: 2020-11-01
 ---
+Github 블로그를 시작하기 앞서 포스팅에 사용할 Markdown 문법에 대해 
+
 ## 표기 방식
 
 기본적인 텍스트 표기 방식입니다. 
@@ -68,8 +70,8 @@ print(s)
 ---------------------------------------
 
 ## 링크
-'''
-- 링크 표시법 : [Title](link)
+```
+링크 표시법 : [Title](link)
 ```
 [Markdown문법 참고 사이트](https://devinlife.com/howto%20github%20pages/markdown-syntax/)
 
