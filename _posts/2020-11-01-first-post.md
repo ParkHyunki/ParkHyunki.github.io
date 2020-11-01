@@ -67,8 +67,6 @@ print(s)
 ---------------------------------------
 
 ## 링크
-```
 - 링크 표시법 : [Title](link)
 [Markdown문법 참고 사이트](https://devinlife.com/howto%20github%20pages/markdown-syntax/)
-```
 
