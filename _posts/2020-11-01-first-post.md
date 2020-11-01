@@ -9,18 +9,19 @@ tags:
   - Markdown
 last_modified_at: 2020-11-01
 ---
+## 표기 방식
 
-기본적인 텍스트 표기 방식이다. 마크다운은 줄바꿈을 인식하지 않는다.
+기본적인 텍스트 표기 방식입니다. 
+마크다운은 줄바꿈을 인식하지 않기 때문에 줄바꿈을 하기 위해서는 라인 끝에 스페이스를 2번 표기해야합니다.
 
-줄바꿈을 하기 위해서는 라인 끝에 스페이스를 2번  
-표기해야한다.
+- 강조표시
 
-여러가지 강조 표시가 존재한다.  
+여러가지 강조 표시가 존재합니다.  
 첫번째로 *single asteristks*,  
 두번째로 _single underscores_,  
 세번째로 **double asterisks**,  
 네번째로 __double underscores__,
-다섯번째로 ~~cancelline~~가 있다.  
+다섯번째로 ~~cancelline~~가 있습니다.  
 
 ---------------------------------------
 
@@ -70,3 +71,9 @@ print(s)
 - 링크 표시법 : [Title](link)
 [Markdown문법 참고 사이트](https://devinlife.com/howto%20github%20pages/markdown-syntax/)
 
+---------------------------------------
+## 이미지 삽입
+```
+![](https://devinlife.com/assets/images/github캡처.png)
+```
+![](https://devinlife.com/assets/images/github캡처.png)
