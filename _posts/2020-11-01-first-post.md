@@ -78,6 +78,6 @@ print(s)
 ---------------------------------------
 ## 이미지 삽입
 ```
-![](https://devinlife.com/assets/images/github캡처.PNG)
+![](https://parkhyunki.github.io/assets/images/github캡처.PNG)
 ```
-![](https://devinlife.com/assets/images/github캡처.PNG)
+![](https://parkhyunki.github.io/assets/images/github캡처.PNG)
